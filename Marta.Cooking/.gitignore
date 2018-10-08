@@ -1,0 +1,6 @@
+
+appsettings\.prod\.json
+
+bin/
+
+obj/
